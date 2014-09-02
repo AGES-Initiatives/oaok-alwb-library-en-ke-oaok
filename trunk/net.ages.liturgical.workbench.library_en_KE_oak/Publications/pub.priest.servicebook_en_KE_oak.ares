@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = pub.priest.servicebook_en_KE_oak 
+
+// Rubrics
+WhenHierarchical = "When a Hierarch is celebrating, the Trisagios Hymn is sung as follows:"
+WhenNotHierarchical = "When a Priest is celebrating, the Trisagios Hymn is sung as follows:"
+CensingAtEpistleReading = "During this time, the Deacon takes the censer and says to the priest :"
+BlessingTheCenser = "Blessing the censer, the priest says:"
+CensingAndBlessingReader = "The deacon now quietly censes around the Holy Table, the entire sanctuary and the clergy who are there. At the conclusion of the chanting of the Epistle, the reader faces east as the priest blesses him saying:"
+AlleluiaAndItsVerses = "(Alleluia and its verses)"
+AlleluiaModes = "Below are the Alleluia verses for the eight modes, use the verses that correspond to the mode of the week:"
+DismissalSpecificFeast = "Insert the appropriate phrase for the Feast"
+// Decorators 
+Asterisks = "*******************************************"
+// Titles
+enarxis.title = "ENARXIS"

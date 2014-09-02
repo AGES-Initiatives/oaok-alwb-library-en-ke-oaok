@@ -1,0 +1,5 @@
+A_Resource_Whose_Name = greetings_en_KE_oak 
+morning = "Good morning"
+howAreYou = "How are you"
+evening = "Good evening"
+greetingResponse1 = "And to you"
